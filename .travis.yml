@@ -10,8 +10,11 @@ language: csharp
 mono: none
 dotnet: 3.1.404
 dist: xenial
-install:
- - dotnet restore
+# install:
+#  - cd TravisTestApp
+#  - dotnet restore
 script:
  - cd TravisTestApp/NUnitTestProject
+ - dotnet restore
+ - dotnet build
  - dotnet test
