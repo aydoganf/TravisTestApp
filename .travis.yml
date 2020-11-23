@@ -1,8 +1,15 @@
+# language: csharp
+# solution: TravisTestApp.sln
+# install:
+#   - nuget restore TravisTestApp/TravisTestApp.sln
+#   - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
+# script:
+#   - msbuild /p:Configuration=Release TravisTestApp/TravisTestApp.sln
+#   - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console-exe ./TravisTestApp/NUnitTestProject/bin/Release/NUnitTestProject.dll
 language: csharp
-solution: TravisTestApp.sln
-install:
-  - nuget restore TravisTestApp/TravisTestApp.sln
-  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
+mono: none
+dotnet: 3.1
+dist: trusty
 script:
-  - msbuild /p:Configuration=Release TravisTestApp/TravisTestApp.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console-exe ./TravisTestApp/NUnitTestProject/bin/Release/NUnitTestProject.dll
+ - cd TravisTestApp/NUnitTestProject
+ - dotnet test
