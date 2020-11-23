@@ -22,5 +22,13 @@ namespace NUnitTestProject
 
             Assert.AreEqual(result, _myService.Sum(val1, val2));
         }
+
+        [Test]
+        [TestCase(5)]
+        [TestCase(10)]
+        public void Test_Square_Service(int v)
+        {
+            Assert.AreEqual(v * v, _myService.Square(v));
+        }
     }
 }
