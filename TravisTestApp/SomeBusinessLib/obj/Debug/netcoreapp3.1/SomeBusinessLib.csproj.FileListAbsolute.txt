@@ -1,0 +1,9 @@
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\bin\Debug\netcoreapp3.1\SomeBusinessLib.deps.json
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\bin\Debug\netcoreapp3.1\SomeBusinessLib.dll
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\bin\Debug\netcoreapp3.1\SomeBusinessLib.pdb
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\obj\Debug\netcoreapp3.1\SomeBusinessLib.csprojAssemblyReference.cache
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\obj\Debug\netcoreapp3.1\SomeBusinessLib.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\obj\Debug\netcoreapp3.1\SomeBusinessLib.AssemblyInfo.cs
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\obj\Debug\netcoreapp3.1\SomeBusinessLib.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\obj\Debug\netcoreapp3.1\SomeBusinessLib.dll
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\SomeBusinessLib\obj\Debug\netcoreapp3.1\SomeBusinessLib.pdb

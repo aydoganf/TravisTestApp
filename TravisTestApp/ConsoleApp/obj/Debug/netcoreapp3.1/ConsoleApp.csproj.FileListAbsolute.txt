@@ -1,0 +1,16 @@
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\SomeBusinessLib.dll
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\bin\Debug\netcoreapp3.1\SomeBusinessLib.pdb
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Users\faruk\source\repos\TravisTestApp\TravisTestApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache
