@@ -9,7 +9,9 @@
 language: csharp
 mono: none
 dotnet: 3.1.404
-dist: trusty
+dist: xenial
+install:
+ - dotnet restore
 script:
  - cd TravisTestApp/NUnitTestProject
  - dotnet test
